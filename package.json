@@ -27,7 +27,7 @@
     "dev:trigger": "trigger-cli dev --port 8080"
   },
   "dependencies": {
-    "@discordjs/core": "^1.0.1",
+    "@discordjs/core": "^2.0.0",
     "@doist/todoist-api-typescript": "^3.0.0",
     "@google-cloud/local-auth": "^2.1.0",
     "@hubspot/api-client": "^10.0.0",
